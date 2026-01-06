@@ -1,6 +1,14 @@
 {
   "images" : [
     {
+      "display-gamut" : "sRGB",
+      "filename" : "단락 텍스트 (1).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "display-gamut" : "display-P3",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +20,19 @@
           "value" : "dark"
         }
       ],
+      "display-gamut" : "sRGB",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "display-gamut" : "display-P3",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
